@@ -44,5 +44,5 @@ Contributions are welcome! If you’d like to improve this project, please fork 
 This project is open-source and available under the MIT License.
 
 -- Author --
-Rohith Srivatsav
+Rohith Srivatsav, 
 Feel free to connect with me on LinkedIn or explore more projects on GitHub
