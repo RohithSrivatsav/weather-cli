@@ -1,0 +1,20 @@
+{
+  "name": "weather-cli-rohithsri",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+  "weather": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rohith Srivatsav",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dotenv": "^16.5.0"
+  }
+  
+}
